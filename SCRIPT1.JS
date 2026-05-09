@@ -72,7 +72,7 @@ if (e.target.closest(".sec3")) return;
 
   // 2. POPUP
   const messages = [
-    "OoOo interact krrhy 👀",
+    "OoOo interact krrhy hain 👀",
     "motayyyy",
     "keep exploring sheikh sahab",
     "BAD TOUCH NAI KREN"
@@ -198,7 +198,7 @@ function triggerCompletionCheck() {
 function showFinalPopup() {
   const box = document.createElement("div");
 
-  box.innerText = "yeyiee!!just a lil smthh, hope it was funnn ♥";
+  box.innerText = "just a lil smthh, hope it was funnn ♥";
 
   box.style.position = "fixed";
   box.style.top = "50%";
